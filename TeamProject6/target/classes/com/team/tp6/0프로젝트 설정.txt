@@ -1,0 +1,15 @@
+0프로젝트 설정.txt
+
+ - 자바버전,스프링버전 설정(pom.xml)
+ - 라이브러리 설치(pom.xml)
+ - root-context.xml / servlet-context.xml / web.xml
+ - 설정파일 복사
+ - 패키지 생성
+ 
+ - .gitignore 파일 생성
+   https://www.toptal.com/developers/gitignore
+   (windows,eclipse,java)
+   
+
+프로젝트 세팅 끝-------------------------------------------------   
+   
